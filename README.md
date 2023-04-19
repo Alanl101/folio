@@ -9,6 +9,7 @@ way and connect with others in the same field.
 
 -=- Navigating through folio -=-
 
-Within the folio application you can view all of the work put into folio 
-using next.js will all be located under app and all the componenets used to make the pages
-will be under components. 
+Folio is built with Next.js, and all the code related to the application's functionality resides 
+in the 'app' directory. Meanwhile, the components that are used to construct the pages of
+the website are located in the 'components' directory. This structure
+allows for easy navigation and management of the codebase
